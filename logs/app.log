@@ -1,0 +1,52 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T03:49:50.945Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T03:50:58.633Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T03:55:25.666Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T04:00:27.095Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T04:00:33.300Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T04:01:58.664Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T04:03:08.616Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T04:08:02.481Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T04:17:30.513Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T05:04:01.235Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T05:05:03.037Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T05:20:24.872Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T05:21:29.118Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T05:30:52.706Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T05:30:55.550Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T05:32:11.840Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T05:32:12.230Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T05:42:58.036Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T05:42:58.602Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:11:07.227Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:11:09.961Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:17:31.744Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:17:32.137Z"}
+{"level":"error","message":"Error generating spending patterns:","timestamp":"2024-11-11T06:18:00.556Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:19:23.315Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:19:23.674Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:20:00.959Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:20:01.350Z"}
+{"level":"error","message":"Error generating spending patterns:","timestamp":"2024-11-11T06:20:10.565Z"}
+{"level":"error","message":"Error generating spending patterns:","timestamp":"2024-11-11T06:27:44.476Z"}
+{"level":"error","message":"Error generating spending patterns:","timestamp":"2024-11-11T06:27:44.485Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:28:43.409Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:28:43.812Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:39:20.829Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:39:21.418Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:39:43.507Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:39:43.899Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:40:07.446Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:40:07.812Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T06:50:35.061Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T06:53:12.075Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:25:23.569Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T07:25:24.280Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:25:56.127Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T07:25:56.515Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:27:31.165Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T07:27:31.540Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:41:08.609Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T07:41:09.143Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:42:21.460Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T07:42:21.839Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2024-11-11T07:50:55.962Z"}

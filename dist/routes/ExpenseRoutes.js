@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const typedi_1 = require("typedi");
+const ExpenseController_1 = require("../controllers/ExpenseController");
+const router = (0, express_1.Router)();
+const expenseController = typedi_1.Container.get(ExpenseController_1.ExpenseController);
+router.post('/expenses', (req, res) => expenseController.createExpense(req, res));
+router.get('/expenses', (req, res) => expenseController.getAllExpenses(req, res));
+router.post('/dashboard', (req, res) => expenseController.createExpense(req, res));
+router.get('/reports', (req, res) => expenseController.getAllExpenses(req, res));
+exports.default = router;
